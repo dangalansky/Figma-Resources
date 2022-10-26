@@ -1,0 +1,88 @@
+Figma
+
+terms:
+
+* persona —> fictional client we are developing a product for 
+
+* task flow —> simple a-z linear flow
+
+*user flow —> different ways of getting to same ends, involves interactions and decisions, more like a flow chart
+
+
+* Wireframe —> loFi, outline of positioning of assets
+
+* HiFi —> images and assets are positioned and formatted properly
+
+shortcuts:
+
+- to round single corner:
+	option + drag
+
+- to repeat action
+	cmd + D
+
+- change view to 100%
+	cmd + 0
+
+- chage view to see ALL
+	shift + 1s
+
+- scale up/down stroke and text
+	k (for scale tool)
+
+Frames ### !
+- similar to group but exists independently of objects!
+- clip content for masking / to add scroll functionality 
+- constraints to keep elements stuck to certain areas of frame
+
+note: nested frames are not auto named 
+
+Pages
+- for separating ideas (mobile vs. desktop etc.)
+
+Properties
+
+- to set default 
+	- select object > edit > set default properties
+
+- to copy and paste properties
+	select object > edit > copy properties > select object > paste properties 
+
+Icons
+- free for commercial use
+- svg file!
+
+Smart Animation
+
+- duplicate screen
+- move object off original screen
+- in layers: drag object back into frame
+
+note: object must have same name between frames!
+
+
+
+1. Creating a Wireframe
+
+- homepage —> new design file —> # frame icon —> drag to size OR choose size 
+	*iphone 8 is fairly generic
+
+- font size must be chosen at 100% preview size
+
+- font itself should be without character!!!!
+
+2. Creating a Prototype (Basic)
+
+- switch from “Design” to  “Prototype” in upper right
+- draw arrows to connect frames
+- click “present” in upper right corner. 
+
+3. Moodboard (HiFi)
+
+(search UI Kit on: dribbble, behance, etc…)
+(best design on screens on pttrns, awwwards, cssdesignawards, onepagelove )
+- screenshots
+- moodboard for self
+	- messy fine!
+- moodboard for stakeholders
+	- use template from Figma
