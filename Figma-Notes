@@ -15,6 +15,9 @@ terms:
 
 shortcuts:
 
+- magical search everything
+	cmd + /
+
 - to round single corner:
 	option + drag
 
@@ -24,11 +27,26 @@ shortcuts:
 - change view to 100%
 	cmd + 0
 
-- chage view to see ALL
-	shift + 1s
+- change view to see ALL
+	shift + 1
+
+- zoom into selected element
+	shift + 2
+
+- select element from within group, frame or object
+	cmd + click
 
 - scale up/down stroke and text
-	k (for scale tool)
+	K (for scale tool)
+
+- switch from frame/group and vise versa
+	select frame, click group from drop down on upper right 
+
+- grid/column hide/show
+	cntl + G
+
+- cut and paste formatting
+	click to left until feature is highlighted + copy and paste on new frame
 
 Frames ### !
 - similar to group but exists independently of objects!
@@ -60,6 +78,23 @@ Smart Animation
 
 note: object must have same name between frames!
 
+Color Palettes
+1.  draw square frames > use eyedropper to fill > start with 3
+2.  primary color, secondary color, accent color
+3.  copy twice, using HSB, make one darker and one brighter 
+4.  create a black to white scale
+	- white should be slightly off-white (to contrast in case its placed on white)
+	- black should be a blackish version of the primary color
+	- create shades towards white by experimenting with up/left until you hit whitest color
+
+Color Styles
+* allows to save colors in project & change all uses quickly!
+
+￼ < — this is the styles indicator!
+
+- choose color and click indicator, save as project name, primary/secondary, number etc.
+
+
 
 
 1. Creating a Wireframe
@@ -86,3 +121,14 @@ note: object must have same name between frames!
 	- messy fine!
 - moodboard for stakeholders
 	- use template from Figma
+
+4. HiFi Prototyping
+
+* web design
+	- set up frame > establish 12 columns (under grid) > gutter standard = 24 (divisible by 8)
+	*for mobile: 6 columns (divisible by 12) > gutter = 16 (divisible by 8)
+
+	- for desktop: margin is helpful! (try 80?)
+
+* app design
+	-set up frame > establish grid (8 is common!)
