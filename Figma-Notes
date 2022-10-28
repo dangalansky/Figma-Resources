@@ -94,6 +94,19 @@ Color Styles
 
 - choose color and click indicator, save as project name, primary/secondary, number etc.
 
+Fonts
+- sizing —> 72(H1), 48(H2), 32(H3), 24(H4), 18(H5), 16(P1)
+	* based on 1 em = 16pt
+
+- standard leading size is 1/2 the font size
+
+Character Styles
+- transfers font, size, leading, kerning, weight
+	NOT COLOR tho… 
+
+- you might pick 2 styles for a brand 
+	- marketing messaging vs. information
+
 
 
 
@@ -128,7 +141,12 @@ Color Styles
 	- set up frame > establish 12 columns (under grid) > gutter standard = 24 (divisible by 8)
 	*for mobile: 6 columns (divisible by 12) > gutter = 16 (divisible by 8)
 
-	- for desktop: margin is helpful! (try 80?)
+	- for desktop: margin (try 80?); mobile: (try 16)
 
 * app design
 	-set up frame > establish grid (8 is common!)
+
+
+
+
+
