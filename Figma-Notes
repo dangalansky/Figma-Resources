@@ -107,6 +107,19 @@ Character Styles
 - you might pick 2 styles for a brand 
 	- marketing messaging vs. information
 
+Boolean Operations
+* must select all shapes involved, shapes are still separately editable
+
+-union - joins shapes into 1
+
+-subtract - subtracts top shape from bottom shape
+
+-intersect - only overlap between shapes is left
+
+-exclude - everything but overlap is left and joined into single shape 
+
+* flatten —> unifies shapes for good; destructive 
+
 
 1. Creating a Wireframe
 
@@ -143,4 +156,8 @@ Character Styles
 
 * app design
 	-set up frame > establish grid (8 is common!)
+
+
+
+
 
