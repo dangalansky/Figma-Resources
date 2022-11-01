@@ -121,6 +121,61 @@ Boolean Operations
 * flatten —> unifies shapes for good; destructive 
 
 
+Images
+
+*cropping = masking!
+
+	to manual crop:
+	—> image must be on top of shape to mask
+	—> click moon-looking icon at top of page ￼
+
+	or:
+	—> select shape fill and change to image
+	—> crop option allows for formatting and positioning within shape
+
+	or:
+	—> import image and choose fill options
+	—> select crop etc
+
+	for text as mask:
+	—> place text under image!	
+	—> to edit text: select text element inside mask, select text tool and retype
+
+
+Buttons
+
+* for buttons that change size as you type
+
+1. create button + text
+	- make sure text is set to auto width, not fixed size
+2. frame both
+3. add auto layout on right 
+	- this removes rectangle, turns into parent frame
+	- text becomes child
+4. add padding into parent frame
+
+* for buttons that stretch while text remains in place
+
+1. create button + text
+	- in this case fixed size is ok
+2. frame both
+3. add auto layout
+4. select alignment properties as needed (center, top left, etc.)
+
+* make button out of fill around text
+1. type words
+2. frame selection
+3. add auto layout
+4. add padding
+5. create curved corners, if desired
+
+
+
+	
+
+
+
+
 1. Creating a Wireframe
 
 - homepage —> new design file —> # frame icon —> drag to size OR choose size 
