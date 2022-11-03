@@ -1,5 +1,22 @@
 Figma
 
+saving:
+
+- saved on cloud, live
+
+to save locally:
+
+- file > save local copy
+	*.fig = figma filetype
+
+- file > show version history (saves 30 days for free) > click “+”
+	—> name your current version
+
+- you can visit by choosing “duplicate”; non-destructive
+
+*** if you restore a version, future revisions are overwritten
+
+
 terms:
 
 * persona —> fictional client we are developing a product for 
@@ -153,10 +170,26 @@ Effects
 
 Blur
 * use blur image to fake depth and field
-	-under effects: more blur to denote further in background
+	- under effects: layer blur
+	- more blur to denote further in background
+
+* use blur to make text more readable
+	- add shape, make transparent, add background blur
 
 
+Neumorphic Design
+* poor design for accessibility but…
 
+—> background cannot be black or white
+
+for extruding buttons
+- 2 black to bottom right
+	- 1 should be wafty and blurry (try blackish at 50%, x6, y6, blur = 10-16)
+	- 1 should be tight and defined
+
+-2 white to top left
+	- try white at 50%, x-6, y-6. blur = 10-15
+	- 1 tight 
 
 
 Buttons
@@ -221,8 +254,4 @@ Buttons
 
 * app design
 	-set up frame > establish grid (8 is common!)
-
-
-
-
 
