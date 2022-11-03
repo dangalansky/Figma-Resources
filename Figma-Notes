@@ -141,6 +141,23 @@ Images
 	—> place text under image!	
 	—> to edit text: select text element inside mask, select text tool and retype
 
+Constraints
+
+- connects any child element to parent
+- designated by dotted line outside box, if set
+
+Effects
+* you can and should apply more than 1 shadow layer
+* goal should be sublty
+	—> no one should notice!
+
+Blur
+* use blur image to fake depth and field
+	-under effects: more blur to denote further in background
+
+
+
+
 
 Buttons
 
@@ -204,3 +221,8 @@ Buttons
 
 * app design
 	-set up frame > establish grid (8 is common!)
+
+
+
+
+
