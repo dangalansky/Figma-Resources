@@ -16,6 +16,16 @@ to save locally:
 
 *** if you restore a version, future revisions are overwritten
 
+Naming Conventions
+
+- best practice is to use forward slashes 
+
+ex) Button / Large / Dark
+
+ex) Card / Small / Light
+
+etc…
+
 
 terms:
 
@@ -71,6 +81,34 @@ Frames ### !
 - constraints to keep elements stuck to certain areas of frame
 
 note: nested frames are not auto named 
+
+Components
+- divided into master and components
+* components are reusable “objects”
+
+* the master is the original
+	—> changing the master changes all “instances” 
+
+
+- instances can be uniquely affected, or “overridden” 
+
+* to take component from community + make local
+	copy + paste > detach instance > make component  
+
+* to push changes to master from instance
+	right click > main component > push overrides to main component
+
+* to change back to original state
+	right click > “reset all overrides”
+
+* to break instance from master
+	right click > detach instance
+
+* to find master
+	right click > component > go to main component 
+
+* if you’ve deleted master…
+	right click component instance > main component > restore main component 
 
 Pages
 - for separating ideas (mobile vs. desktop etc.)
