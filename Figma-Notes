@@ -26,6 +26,8 @@ ex) Card / Small / Light
 
 etc…
 
+- forward slashes out-create multi-dimensional variations for component groups 
+
 
 terms:
 
@@ -109,6 +111,27 @@ Components
 
 * if you’ve deleted master…
 	right click component instance > main component > restore main component 
+
+Variable Components
+* a collection of components with variations 
+
+- to create variants
+	select multiple “main” components > select “combine as variants” from right panel
+
+- to use:
+	select instance > choose property under variants in right panel 
+
+Toggles!
+when a variable set is created:
+
+	- naming the main components inside either:
+		- on / off
+		- true / false
+
+	** creates special scenario where the instances will work like toggles!
+
+
+
 
 Pages
 - for separating ideas (mobile vs. desktop etc.)
